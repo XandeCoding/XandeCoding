@@ -5,7 +5,7 @@ Entre esses produtos tive a oportunidade em sua maioria de trabalhar tanto na mo
 Algumas ferramentas que tenho mais intimidade são Express, FastAPI, Angular e React.
 
 
-## :sunglasses: [Meu site](https://xande.dev.br/)
+## 🛸 [Meu site](https://xande.dev.br/)
 
 
 
