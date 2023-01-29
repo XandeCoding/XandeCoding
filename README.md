@@ -1,4 +1,4 @@
-Tenho mais de 3 anos de experiência trabalhando em produtos que acredito que facilitam e descomplicam a vida dos usuários.
+Trabalho há cerca de 3 anos em produtos que acredito que facilitam e descomplicam a vida dos usuários.
 
 Entre esses produtos tive a oportunidade em sua maioria de trabalhar tanto na modelagem da solução, frontend, backend e na sua infraestrutura utilizando linguagens como Python, TypeScript e mais recentement GoLang.
 
