@@ -1,3 +1,5 @@
+# Sobre mim
+
 Sempre busco me envolver em projetos impactantes que facilitam a vida dos usuários. Ao longo da minha carreira, trabalhei tanto no frontend quanto no backend. Também contribuí ativamente na criação da infraestrutura necessária para esses projetos.
 
 No backend, tenho experiência em linguagens como Python, com foco nas frameworks FastAPI e Flask. Criei APIs robustas e eficientes, garantindo um ótimo desempenho e escalabilidade dos sistemas.
