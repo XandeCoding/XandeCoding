@@ -1,13 +1,12 @@
-Trabalho há cerca de 3 anos em produtos que acredito que facilitam e descomplicam a vida dos usuários.
+Sempre busco me envolver em projetos impactantes que facilitam a vida dos usuários. Ao longo da minha carreira, trabalhei tanto no frontend quanto no backend. Também contribuí ativamente na criação da infraestrutura necessária para esses projetos.
 
-Entre esses produtos tive a oportunidade em sua maioria de trabalhar tanto na modelagem da solução, frontend, backend e na sua infraestrutura utilizando linguagens como Python, TypeScript e mais recentement GoLang.
+No backend, tenho experiência em linguagens como Python, com foco nas frameworks FastAPI e Flask. Criei APIs robustas e eficientes, garantindo um ótimo desempenho e escalabilidade dos sistemas.
 
-Algumas ferramentas que tenho mais intimidade são Express, FastAPI, Angular e React.
+Recentemente, tenho explorado o potencial do GoLang, uma excelente linguagem para desenvolvimento de backend.
 
+No frontend, adquiri habilidades com TypeScript e trabalhei com frameworks populares como Angular e React.
 
 ## 🛸 [Meu site](https://xande.dev.br/)
-
-
 
 ### :floppy_disk: Backend
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
