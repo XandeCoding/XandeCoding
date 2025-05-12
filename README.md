@@ -1,17 +1,19 @@
-# Sobre mim
+# About Me
 
-Sempre busco me envolver em projetos impactantes que facilitam a vida dos usuários. Ao longo da minha carreira, trabalhei tanto no frontend quanto no backend. Também contribuí ativamente na criação da infraestrutura necessária para esses projetos.
+Hi! I’m Alexandre, but you can call me Ale.
+I work as a back-end developer, but what I really enjoy is using technology as a bridge between people and solutions. After all, good technology is the kind that makes life easier, right?
 
-No backend, tenho experiência em linguagens como Python, com foco nas frameworks FastAPI e Flask. Criei APIs robustas e eficientes, garantindo um ótimo desempenho e escalabilidade dos sistemas.
+As for my experience, I’ve worked at SaaS startups and at a payment institution, where I developed tools focused on the developer experience — such as logs, metrics, incident alerts, and internal audits.
 
-Recentemente, tenho explorado o potencial do GoLang, uma excelente linguagem para desenvolvimento de backend.
+Currently, I’m part of the LuizaLabs team, the tech arm of the Magazine Luiza Group, focused on innovation and technology. There, I help deliver modern, efficient solutions to Brazilian retail.
 
-No frontend, adquiri habilidades com TypeScript e trabalhei com frameworks populares como Angular e React.
+My main programming languages are TypeScript and Python, and I’ve worked with frameworks like Express, Fastify, Flask, and FastAPI.
+I also have experience with cloud, working with AWS and GCP, using tools like Kubernetes and serverless functions.
 
-## 🛸 [Meu site](https://xande.dev.br/)
+## 🛸 [My Site](https://xande.dev.br/)
 
 ### :floppy_disk: Backend
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### :eyeglasses: Frontend
