@@ -2,13 +2,15 @@
 
 Hi! I’m Alexandre, but you can call me Ale. 
 
-I work as a back-end developer focused on building products that connect people and solve real-world problems. Currently, I'm part of the LuizaLabs team, working at the core of user navigation for one of Brazil's largest e-commerce platforms. My day-to-day involves developing and orchestrating BFFs using **GraphQL** and **TypeScript**, ensuring our integrations can handle peaks of up to **100,000 requests per minute** with minimal latency.
+I work as a back-end developer focused on building products that connect people and solve real-world problems. Currently, I'm part of the LuizaLabs team, working at the core of user navigation for one of Brazil's largest e-commerce platforms. 
+
+My day-to-day involves developing and orchestrating BFFs using **GraphQL** and **TypeScript**, ensuring our integrations can handle peaks of up to **100,000 requests per minute** with minimal latency.
 
 I strongly believe that a high-impact product must be resilient and predictable. Because of that, I have a deep practical background in infrastructure, event-driven architecture, and observability—a vision recently validated by my **CKAD (Kubernetes)** certification. 
 
 In my spare time, I enjoy understanding how applications behave under stress, exploring high-performance ecosystems (like Bun and Zig), and sharing my experiments with architecture and infrastructure on my blog.
 
-## 🛸 [My Technical Blog: xande.dev.br](https://xande.dev.br/)
+## 🛸 [My Blog: xande.dev.br](https://xande.dev.br/)
 
 ### 💻 Languages & Runtimes
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
