@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '57 18 * * *' # Roda de hora em hora
+    - cron: '0 0 * * *' # Roda toda meia noite
   workflow_dispatch:
 
 jobs:
