@@ -36,5 +36,9 @@ In my spare time, I enjoy understanding how applications behave under stress, ex
 
 ### 📝 Latest Tech Articles
 <!-- BLOG-POST-LIST:START -->
-<!-- Your articles will be automatically injected here by the GitHub Action -->
+- [Metas, Calvície e IACentrismo](https://dev.to/xandecodes/metas-calvicie-e-iacentrismo-l09)
+- [WebSocket e suas pegadinhas](https://dev.to/xandecodes/websocket-e-suas-pegadinhas-4cea)
+- [Docker Compose - Observability made easy](https://dev.to/xandecodes/docker-compose-observability-made-easy-3030)
+- [Docker Compose - Stack de Observabilidade sem complicação](https://dev.to/xandecodes/docker-compose-stack-de-observabilidade-sem-complicacao-2430)
+- [Docker Compose - SFTP: Managing files securely](https://dev.to/xandecodes/docker-compose-sftp-managing-files-securely-48b0)
 <!-- BLOG-POST-LIST:END -->
